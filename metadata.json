@@ -1,0 +1,6 @@
+{
+  "name": "SweepPulse",
+  "description": "Real-time SMC liquidity sweep and 26-indicator TradingView consensus signal provider for Forex and Crypto markets with instant push notifications and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

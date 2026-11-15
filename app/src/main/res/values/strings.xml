@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SweepPulse</string>
+    <string name="notification_channel_signals_name">Trading Signals</string>
+    <string name="notification_channel_signals_desc">Real-time SMC liquidity sweep and 26-indicator consensus buy/sell alerts</string>
+    <string name="nav_signals">Signals</string>
+    <string name="nav_terminal">Terminal</string>
+    <string name="nav_performance">Metrics</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_settings">Settings</string>
+    <string name="disclaimer_trading">Market signals combine SMC liquidity sweeps and 26 technical indicators for informational analysis only.</string>
+</resources>
